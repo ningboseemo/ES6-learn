@@ -1,6 +1,6 @@
 ## ECMAScript 简介
 
-@(学习文档)[es6|入门]
+`学习文档` `es6|入门`
 
 ---------------------------------
 **javascript**是Netscape创造的语言，然后提交给国际标准化组织ECMA规定了浏览器脚本语言的标准ECMAScript
@@ -51,8 +51,4 @@ $ babel src -d lib -s
 （3）**babel-register、babel-core、babel-polyfill**
 `babel-register`模块改写`require`命令，为它加上一个钩子。此后，每当使用`require`加载`.js、.jsx、.es`和`.es6`后缀名的文件，就会先用 Babel 进行转码。`babel-core`调用babelAPI转码，
 （4）其他转码器Traceur
- 
-- **功能丰富** ：支持高亮代码块、*LaTeX* 公式、流程图，本地图片以及附件上传，甚至截图粘贴，工作学习好帮手；
-- **得心应手** ：简洁高效的编辑器，提供[桌面客户端][1]以及[离线Chrome App][2]，支持移动端 Web；
-- **深度整合** ：支持选择笔记本和添加标签，支持从印象笔记跳转编辑，轻松管理。
 
