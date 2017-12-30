@@ -16,7 +16,7 @@ ECMAScript1.0(1997年)、ECMAScript2.0(1998年6月)、**ECMAScript3.0**(1999年1
 **ECMAScript4.0**2000年没有通过审核，2007年没有通过审核，2008年中止开发，发布了3.1后改名为ECMAScript5，ECMAScript5.0 在2009年发布，ECMAScript5.1在2011年6月发布
 **ECMAScript6**在2013年3月冻结，12月发布草案，2015年6月正式发布
 
-####babel 转码器
+###babel 转码器
 （1）配置文件.babelrc转码
 ```
 {
